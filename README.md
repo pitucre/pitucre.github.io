@@ -13,4 +13,6 @@ Advanced RAG
 
 ![image](https://github.com/user-attachments/assets/dd5bbfd8-47e2-4b0b-a134-3504aa73d847)
 
+![dd818ec94428489340caa1bc64d4d35](https://github.com/user-attachments/assets/9a040f9d-9633-4a73-9429-7d58d6269ca7)
+
 Designing a computer program that learns from its mistakes is actually easier than writing a computer program that applies the tic-tac-toe strategies we identified.
