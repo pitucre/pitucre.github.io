@@ -21,5 +21,5 @@ RAG：分块是为了有需要的时候，准确地找到相关信息。
 ![image](https://github.com/user-attachments/assets/6be48551-0886-4def-8e6e-7d12ed71bc54)
 ![image](https://github.com/user-attachments/assets/40f6d7f8-1229-4ab2-9cb6-3d60f8abf1e3)
 
-
+Cursor
 Designing a computer program that learns from its mistakes is actually easier than writing a computer program that applies the tic-tac-toe strategies we identified.
